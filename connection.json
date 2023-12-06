@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
+  "account"   : "usdinjc-zcb36955",
+  "user"      : "GGARCIAG",
+  "password"  : "Red$heep97",
   "role"      : "ACCOUNTADMIN",
-  "warehouse" : "",
+  "warehouse" : "DASH_L",
   "database"  : "DASH_DB",
   "schema"    : "DASH_SCHEMA"
 }
